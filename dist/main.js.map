@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":"AAAuBA,QAAQC,IAAI","sources":["webpack://test-app-js/./src/index.js"],"sourcesContent":["const sayHello = () => console.log('hello');\r\nsayHello();"],"names":["console","log"],"sourceRoot":""}
